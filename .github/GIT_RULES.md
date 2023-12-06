@@ -13,8 +13,6 @@ Here,
 
 change_type means the type of changes like `feat`,`fix` and so on.
 
-package_name means which packages this changes is for. This is optional.
-
 short discription/subject line means about the changes
 
 Long Description are optional. Add it if its required to reflect the changes in more detail.
